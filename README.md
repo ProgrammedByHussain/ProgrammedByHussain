@@ -14,7 +14,7 @@
 
  🌱 Working with **TypeScript/Node.js and AWS** 
  
-🌌 Also enjoy coding with **Golang**
+🌌 Currently learning **Golang**
 
 <br/>
  <h3 align="center">Tech Stack</h2>
