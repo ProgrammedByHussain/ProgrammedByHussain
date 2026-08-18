@@ -6,13 +6,11 @@
 
 <div align="center">
 
-<h3>I'm currently:</h3>
+<h3>About Me:</h3>
  
- 💻 Software Engineer Intern @ **Tesla**
+ 💻 Prev Software Engineer Intern @ **Tesla**, **BMO Capital Markets**
  
  🎓 Computer Science @ **University of Guelph**
-
- 🌱 Working with **Scala, Akka, Kafka and Kubernetes** 
 
 <br/>
  <h3 align="center">Tech Stack</h2>
